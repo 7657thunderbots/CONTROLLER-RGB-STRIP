@@ -3,14 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>RGB LED Rainbow Effect on Raspberry Pi Pico</title>
-    <style>
-        body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; }
-        h1, h2 { color: #333; }
-        code { background: #f4f4f4; padding: 2px 5px; border-radius: 4px; }
-        table { width: 100%; border-collapse: collapse; margin: 20px 0; }
-        table, th, td { border: 1px solid #ddd; padding: 8px; }
-        th { background: #f4f4f4; }
+    ackground: #f4f4f4; }
     </style>
 </head>
 <body>
