@@ -40,7 +40,7 @@
         <li>Save the script as <code>main.py</code> on the Pico.</li>
         <li>Restart the board, and the rainbow effect should begin.</li>
     </ol>
-    <h2>🎨 Adjusting Brightness</h2>
+    <h2>⭐ Adjusting Brightness</h2>
     <p>Modify the <strong>brightness factor</strong> in the script:</p>
     <pre><code>BRIGHTNESS = 0.5  # Set between 0.0 (off) and 1.0 (full brightness)</code></pre>
     <h2>🧙🏼‍♂️ Troubleshooting</h2>
