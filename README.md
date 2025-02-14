@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
+    <title>RGB LED Rainbow Effect on Raspberry Pi Pico</title>
 </head>
 <body>
     <h1>RGB LED Rainbow Effect on Raspberry Pi Pico</h1>
@@ -23,7 +23,7 @@
         <tr><td>Green</td><td>GP19</td><td>Gate 2</td></tr>
         <tr><td>Blue</td><td>GP16</td><td>Gate 3</td></tr>
     </table>
-    <p><strong>Note:</strong> The <strong>MOSFET drain</strong> connects to the LED strip, and the <strong>source</strong> goes to ground.</p> 
+    <p><strong>Note:</strong> The <strong>MOSFET drain</strong> connects to the LED strip, and the <strong>source</strong> goes to ground.</p>
     <h2>💾 Software Setup</h2>
     <ol>
         <li>Install <strong>MicroPython</strong> on your Raspberry Pi Pico.</li>
@@ -49,6 +49,12 @@
         <li><strong>One color not working?</strong> Check wiring & GPIO assignments.</li>
         <li><strong>Dim output?</strong> Verify MOSFETs and 12V power supply.</li>
         <li><strong>No color change?</strong> Ensure the script is running without errors.</li>
+    </ul>
+    <h2>📝 Purchase Links</h2>
+    <ul>
+        <li><a href="https://amzn.to/3IMwLLY" target="_blank">Raspberry Pi Pico</a></li>
+        <li><a href="https://www.amazon.com/Daybetter-Lights-Control-Bedroom-Changing/dp/B08JSFH1G6/ref=sr_1_4" target="_blank">Daybetter 5050 RGB LED Strip</a></li>
+        <li><a href="https://www.amazon.com/Aceirmc-Current-Converter-Adjustable-Regulator/dp/B082XQC2DS/ref=sr_1_3" target="_blank">5V to 12V Converter XL6019</a></li>
     </ul>
     <p>Enjoy your <strong>rainbow LED effect</strong>! 🌈✨</p>
 </body>
