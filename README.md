@@ -25,8 +25,8 @@
     <p><strong>Note:</strong> The <strong>MOSFET drain</strong> connects to the LED strip, and the <strong>source</strong> goes to ground.</p>
     <h2>💾 Software Setup</h2>
     <ol>
-        <li>Install <strong>MicroPython</strong> on your Raspberry Pi Pico.</li>
-        <li>Use <strong>Thonny IDE</strong> or another MicroPython-compatible editor.</li>
+        <li>Install <strong>CircutPython</strong> on your Raspberry Pi Pico.</li>
+        <li>Use <strong>Thonny IDE</strong> or another CircutPython-compatible editor.</li>
         <li>Copy the provided <code>main.py</code> script to your Pico.</li>
     </ol>
     <h2>📝 Code Overview</h2>
