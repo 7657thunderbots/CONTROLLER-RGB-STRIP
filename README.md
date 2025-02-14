@@ -52,7 +52,7 @@
     </ul>
     <h2>📝 Purchase Links</h2>
     <ul>
-        <li><a href="https://amzn.to/3IMwLLY" target="_blank">Raspberry Pi Pico</a></li>
+        <li><a href="https://amzn.to/3IMwLLY" target="_blank">IRLZ34N MOSFETs</a></li>
         <li><a href="https://www.amazon.com/Daybetter-Lights-Control-Bedroom-Changing/dp/B08JSFH1G6/ref=sr_1_4" target="_blank">Daybetter 5050 RGB LED Strip</a></li>
         <li><a href="https://www.amazon.com/Aceirmc-Current-Converter-Adjustable-Regulator/dp/B082XQC2DS/ref=sr_1_3" target="_blank">5V to 12V Converter XL6019</a></li>
     </ul>
