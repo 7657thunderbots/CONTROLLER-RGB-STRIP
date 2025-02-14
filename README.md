@@ -15,7 +15,7 @@
         <li>12V power supply</li>
         <li>Jumper wires</li>
     </ul>  
-    <h2>📌 Wiring Diagram</h2>
+    <h2>🔌 Wiring Diagram</h2>
     <table>
         <tr><th>LED Strip</th><th>Pi Pico (GPIO)</th><th>MOSFET Gate</th></tr>
         <tr><td>Red</td><td>GP17</td><td>Gate 1</td></tr>
