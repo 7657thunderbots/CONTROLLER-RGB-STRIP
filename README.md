@@ -40,7 +40,7 @@
         <li>Save the script as <code>main.py</code> on the Pico.</li>
         <li>Restart the board, and the rainbow effect should begin.</li>
     </ol>
-    <h2>⭐ Adjusting Brightness</h2>
+    <h2>✨ Adjusting Brightness</h2>
     <p>Modify the <strong>brightness factor</strong> in the script:</p>
     <pre><code>BRIGHTNESS = 0.5  # Set between 0.0 (off) and 1.0 (full brightness)</code></pre>
     <h2>🧙🏼‍♂️ Troubleshooting</h2>
@@ -55,6 +55,6 @@
         <li><a href="https://www.amazon.com/Daybetter-Lights-Control-Bedroom-Changing/dp/B08JSFH1G6/ref=sr_1_4" target="_blank">Daybetter 5050 RGB LED Strip</a></li>
         <li><a href="https://www.amazon.com/Aceirmc-Current-Converter-Adjustable-Regulator/dp/B082XQC2DS/ref=sr_1_3" target="_blank">5V to 12V Converter XL6019</a></li>
     </ul>
-    <p>Enjoy your <strong>rainbow LED effect</strong>! 🌈✨</p>
+    <p>Enjoy your <strong>rainbow LED effect</strong>! 🌈</p>
 </body>
 </html>
