@@ -7,7 +7,7 @@
 <body>
     <h1>RGB LED Rainbow Effect on Raspberry Pi Pico</h1>
     <p>This project creates a <strong>rainbow effect</strong> on an RGB LED strip using <strong>PWM control</strong> with a Raspberry Pi Pico. It cycles through colors smoothly using <strong>HSV to RGB conversion</strong>.</p>
-    <h2>🫠 Hardware Requirements</h2>
+    <h2>🛠 Hardware Requirements</h2>
     <ul>
         <li>Raspberry Pi Pico</li>
         <li>12V 5050 RGB LED strip</li>
