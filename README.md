@@ -22,7 +22,7 @@
         <tr><td>Red LED</td><td>GP17</td><td>MOSFET Gate 1</td></tr>
         <tr><td>Green LED</td><td>GP19</td><td>MOSFET Gate 2</td></tr>
         <tr><td>Blue LED</td><td>GP16</td><td>MOSFET Gate 3</td></tr>
-        <tr><td>Button</td><td>GP14</td><td>One side to GP14, other to GND</td></tr>
+        <tr><td>Button</td><td>GP14</td><td>One side to GP14, other to 3.3V</td></tr>
     </table>
     <p><strong>Note:</strong> The <strong>MOSFET drain</strong> connects to the LED strip, and the <strong>source</strong> goes to ground.</p> 
     <h2>💾 Software Setup</h2>
